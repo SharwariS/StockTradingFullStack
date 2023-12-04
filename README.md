@@ -8,4 +8,6 @@ The class StocksTradingAppApplication is the main class that runs the program. O
 At this time, there are server logs in form of print statements and console output for the frontend to ensure the data is communicating as expected from server to client 
 and vice versa. 
 
+The application will require you to add your API_KEY and API_SECRET in the AlpacaService.java file on line 66. 
+
 The project streams live data using the Alpaca API with the 'iex' feed. Note that the live data only streams from Monday - Friday 8 AM EST - 4 PM EST. 
