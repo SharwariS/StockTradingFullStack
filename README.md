@@ -11,3 +11,4 @@ and vice versa.
 The application will require you to add your API_KEY and API_SECRET in the AlpacaService.java file on line 66. 
 
 The project streams live data using the Alpaca API with the 'iex' feed. Note that the live data only streams from Monday - Friday 8 AM EST - 4 PM EST. 
+![StockTradingFrontEnd](https://github.com/SharwariS/StockTradingFullStack/assets/59146359/0631c67e-027b-41e0-9adc-e440a6d178ae)
